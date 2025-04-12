@@ -1,6 +1,6 @@
 # XML – JSON Konvertáló
 
-Egy egyszerű, grafikus felületű Java alkalmazás, amely XML és JSON fájlok konvertálását teszi lehetővé egymás között. A program célja, hogy a felhasználó néhány kattintással megnyithasson egy fájlt, átalakítsa a kívánt formátumra, majd elmentse azt. A program oktatási céllal, a Fordítóprogramok tantárgy keretében készült.
+Egy egyszerű, grafikus felületű Java alkalmazás, amely XML és JSON fájlok konvertálását teszi lehetővé egymás között. A program célja, hogy a felhasználó néhány kattintással megnyithasson egy fájlt, átalakítsa a kívánt formátumra, majd elmentse azt. A program oktatási céllal, a THE PTI / Fordítóprogramok tantárgy keretében készült.
 
 ##  Funkciók
 
@@ -19,7 +19,7 @@ Egy egyszerű, grafikus felületű Java alkalmazás, amely XML és JSON fájlok 
 
 ##  Felület
 
-A program fix méretű, három oszlopos elrendezésű, sötét témához igazodó kinézettel rendelkezik. A vezérlőgombok logikusan, egymás alatt helyezkednek el.
+A program fix méretű, három oszlopos elrendezésű, általános felülettel rendelkezik. A vezérlőgombok logikusan, egymás alatt helyezkednek el.
 
 ##  Használat
 
