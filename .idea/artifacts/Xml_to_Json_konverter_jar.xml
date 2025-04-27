@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Xml-to-Json-konverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Xml_to_Json_konverter_jar</output-path>
+    <root id="archive" name="Xml-to-Json-konverter.jar">
+      <element id="module-output" name="Xml-to-Json-konverter" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../THE prg/json-20250107.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
